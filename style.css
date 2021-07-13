@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 30px;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+hr{
+margin-bottom:30px;
+
+}
+body{
+background-color: yellowgreen;
+}
+input{
+margin-right:10px;
+margin-bottom: 20px;
+width:300px;
+background-color: tomato;
+font-weight: bold;
+border:solid;
+}
+button{
+margin-bottom: 15px;
+background-color: teal;
+font-weight:bold;
+
+
+}
